@@ -15,7 +15,6 @@
 
 - `schematics/` – Electrical schematics and circuit layout
 - `cad/` – 3D models and enclosure designs (Fusion 360)
-- `firmware/` – (If applicable) control code for stimulator operation
 - `docs/` – Build instructions, BOM, usage guidelines
 
 ## Usage
