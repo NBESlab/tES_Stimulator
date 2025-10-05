@@ -15,7 +15,7 @@
 
 - `.fsch` – Electrical schematics (Fusion 360)
 - `.fbrd/` – Board Circuit layout(Fusion 360)
-- `docs/` – Build instructions, BOM, usage guidelines
+- `.zip/` – Gerber files for PCB manufacturing
 
 ## Usage
 
